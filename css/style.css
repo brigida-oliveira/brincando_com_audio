@@ -1,0 +1,51 @@
+body, main {
+  display: block;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+main{
+    margin: auto;
+}
+
+button {
+    margin-bottom: 0.5em;
+}
+label {
+    display: block;
+    line-height: 20px;
+    text-shadow: 1px 1px 3px #ccc;
+}
+input {
+    display: inline-block;
+    float: right;
+}
+span {
+    display: inline-block;
+    width: 90px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+    background-color: white;
+}
+hr {
+    border-color: rgba(200, 200, 200, 0.1);
+}
+
+svg {
+    display: block;
+    margin: 0 auto;
+
+}
+
+.musica{
+    text-align: center;
+}
+
+h4{
+    margin-top: 1em;
+}
